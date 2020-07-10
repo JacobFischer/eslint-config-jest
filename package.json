@@ -19,10 +19,10 @@
   "homepage": "https://github.com/JacobFischer/eslint-config-jest#readme",
   "main": "index.js",
   "devDependencies": {
-    "@types/eslint": "6.8.0"
+    "@types/eslint": "7.2.0"
   },
   "peerDependencies": {
-    "eslint": "^7.0.0",
-    "eslint-plugin-jest": "^23.10.0"
+    "eslint": "^7.4.0",
+    "eslint-plugin-jest": "^23.18.0"
   }
 }
